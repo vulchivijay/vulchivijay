@@ -1,12 +1,16 @@
-# ❤ to Build - Software Engineer & Enthusiast!
+# :black_heart: to Build - Software Engineer & Enthusiast!
 
 Hey, I am Vijay - <b>Technical lead</b> at <b>HCL technologies</b>, Chennai, India. Building and learning real stuff through code. My working principle is learning by doing.
 
 <hr>
 
-## I work on... :computer:
+## I work on... :man_technologist:
 
-## On the job... :company: 
+## On the job... :office:
+
+## I did... :man_student:
+
+## I love... :gift_heart:
 
 <!--
 **vulchivijay/vulchivijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
