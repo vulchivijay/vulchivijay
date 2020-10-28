@@ -6,7 +6,7 @@ Hey, I am Vijay - <b>Technical lead</b> at <b>HCL technologies</b>, Chennai, Ind
 
 ## I work on... :computer:
 
-## On the job... :building: 
+## On the job... :company: 
 
 <!--
 **vulchivijay/vulchivijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
