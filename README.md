@@ -4,6 +4,10 @@ Hey, I am Vijay - <b>Technical lead</b> at <b>HCL technologies</b>, Chennai, Ind
 
 <hr>
 
+<!--
+**vulchivijay/vulchivijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ## I work on... :man_technologist:
 
 ## On the job... :office:
@@ -11,10 +15,6 @@ Hey, I am Vijay - <b>Technical lead</b> at <b>HCL technologies</b>, Chennai, Ind
 ## I did... :man_student:
 
 ## I love... :gift_heart:
-
-<!--
-**vulchivijay/vulchivijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋
 
 Here are some ideas to get you started:
