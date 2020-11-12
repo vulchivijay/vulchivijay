@@ -2,6 +2,8 @@
 
 Hey, I am Vijay - <b>Technical lead</b> at <b>HCL technologies</b>, Chennai, India. Building and learning real stuff through code. My working principle is learning by doing.
 
+Focusing on <b>Python</b> to explore <b>Data Science, Machine learning and Artificial Intelligence</b>.
+
 <hr>
 
 <!--
