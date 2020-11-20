@@ -4,7 +4,7 @@ Hey, I am Vulchi Vijaya Kumar - <b>Technical lead</b> at <b>HCL Engineering and 
 
 Focusing on <b>Python</b> to explore <b>Data Science, Machine learning and Artificial Intelligence</b>.
 
-Loves CSS3 animations <a href="https://codepen.io/your-work/?sort_by=popularity" target="_blank">Click Me</a>
+Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" target="_blank">Click Me</a>
 
 <hr>
 
