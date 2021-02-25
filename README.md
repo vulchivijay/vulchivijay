@@ -1,6 +1,6 @@
 # :black_heart: to Build - Software Engineer & Enthusiast!
 
-Hey, I am Vulchi Vijaya Kumar - <b>Technical lead</b> at <b>HCL Engineering and R&D Services</b>, Chennai, India. Building and learning real stuff through code. My working principle is learning by doing.
+Hey, I am Vulchi Vijaya Kumar - <b>Technical lead</b> at <b>HCL Engineering and R&D Services</b>, Chennai, India. Building and learning real stuff through code.
 
 Focusing on <b>Python</b> to explore <b>Data Science, Machine learning and Artificial Intelligence</b>.
 
