@@ -1,6 +1,6 @@
 # :black_heart: to Build - Software Engineer & Enthusiast!
 
-Hey, I am Vulchi Vijaya Kumar - <b>Technical lead</b> at <b>HCL Engineering and R&D Services</b>, Chennai, India. Building and learning real stuff through code.
+I’m a software engineer with roots in computer science. I have ~7 years of experience in front end engineer. Building web based products and responsive websites for world class clients, like Xerox, Freshchat, Freshworks, AirFrance, DBS bank etc. Provide quality, scalable, reusable industry standard code.
 
 Focusing on <b>Python</b> to explore <b>Data Science, Machine learning and Artificial Intelligence</b>.
 
