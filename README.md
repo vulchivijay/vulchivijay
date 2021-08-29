@@ -1,8 +1,8 @@
-# :black_heart: to Build - Software Engineer & Enthusiast!
+# :black_heart: to Build - Senior Frontend Engineer!
 
-I’m a software engineer with roots in computer science. I have ~7 years of experience in front end engineer. Building web based products and responsive websites for world class clients, like Xerox, Freshchat, Freshworks, AirFrance, DBS bank etc. Provide quality, scalable, reusable industry standard code.
+Builds web based products and websites for world class clients like Xerox, Freshchat, Freshworks and its products websites, AirFrance etc. Help companies to build complex web applications with modern technologies. Coding on React and dreaming on React.
 
-Focusing on <b>Python</b> to explore <b>Data Science, Machine learning and Artificial Intelligence</b>.
+Skills: React, Redux, Node, Express, Firebase, MongoDB, JavaScript, HTML5, CSS3.
 
 Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" target="_blank">Click Me</a>
 
