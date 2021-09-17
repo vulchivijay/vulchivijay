@@ -55,11 +55,13 @@ Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" targ
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vulchivijay&theme=radical&show_icons=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulchivijay&theme=radical&layout=compact" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vulchivijay&theme=radical&layout=compact" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vulchivijay)](https://github.com/vulchivijay/github-readme-stats)
 
 <br/>
 
 <!--
+https://github.com/anuraghazra/github-readme-stats#themes
 **vulchivijay/vulchivijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
