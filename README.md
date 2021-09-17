@@ -54,8 +54,8 @@ Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" targ
 </table>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vulchivijay&theme=radical&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulchivijay&theme=radical&layout=compact" />
+[![vulchivijay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vulchivijay)](https://github.com/vulchivijay/github-readme-stats)
+
 
 <br/>
 
