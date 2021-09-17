@@ -2,8 +2,6 @@
 
 Builds web based products and websites for world class clients like Xerox, Freshchat, Freshworks and its products websites, AirFrance etc. Help companies to build complex web applications with modern technologies. Coding on React and dreaming on React.
 
-Skills: React, Node, Express, Firebase, MongoDB, JavaScript, HTML5, CSS3.
-
 Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" target="_blank">Click Me</a>
 
 <hr>
@@ -11,7 +9,7 @@ Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" targ
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- **Programming Languages**
+- **Programming in**
 <table>
 <tbody>
  <tr>
@@ -20,6 +18,12 @@ Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" targ
 </td>
 <td align="center" width="20%">
 <img height=40px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5"/>
+</td>
+<td align="center" width="20%">
+<img height=40px src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="CSS3"/>
+</td>
+<td align="center" width="20%">
+<img height=40px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
 </td>
 </tr>
 </tbody>
