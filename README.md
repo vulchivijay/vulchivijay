@@ -55,7 +55,7 @@ Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" targ
 
 
 - **Development**
-<table>
+<table style="border: none;">
 <tbody>
  <tr>
 <td align="center" width="50%">
