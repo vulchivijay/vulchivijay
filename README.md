@@ -53,8 +53,20 @@ Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" targ
 </tbody>
 </table>
 
+
+- **Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vulchivijay&theme=buefy&show_icons=true" />
+</td>
+<td align="center" width="50%">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulchivijay&theme=buefy&layout=compact" />
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <br/>
