@@ -35,7 +35,7 @@ Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" targ
 <tbody>
  <tr>
 <td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/nextjs-ar21.svg" alt="nextjs" /> 
+<img height=60px src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" /> 
 </td>
 <td align="center" width="16.6%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" /> 
