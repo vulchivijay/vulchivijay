@@ -34,19 +34,22 @@ Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" targ
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/nextjs-ar21.svg" alt="nextjs" /> 
+</td>
+<td align="center" width="16.6%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" /> 
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
 <img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" /> 
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
 <img height=60px src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" /> 
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
 <img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" /> 
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" /> 
 </td>
 </tr>
