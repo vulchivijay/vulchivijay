@@ -1,91 +1,102 @@
-# :black_heart: to Build - Senior Technical Lead @HCLTech!
+# 👨‍💻 Vulchi Vijaya Kumar
 
-Builds web based products and websites for world class clients like Xerox, Freshchat, Freshworks and its products websites, AirFrance etc. Help companies to build complex web applications with modern technologies. Coding on React and dreaming on React.
+**Senior Technical Lead | Full-Stack Developer | AI Enthusiast**  
+📍 Tirupati, Andhra Pradesh, India  
+📧 vulchi.vijay@gmail.com | 📱 +91 8099181075  
+🔗 [LinkedIn](https://www.linkedin.com/in/vulchivijayakumar/)
 
-Loves CSS3 animations <a href="https://codepen.io/vulchivijay/pens/popular" target="_blank">Click Me</a>
+---
 
-<hr>
+## 🧠 About Me
 
+Experienced Full-Stack Developer with 12+ years of hands-on expertise in building responsive, accessible, and high-performance web applications. I specialize in modern JavaScript frameworks like **React.js**, **Next.js**, and **TypeScript**, and have strong backend experience with **Node.js**, **Express**, and **RESTful APIs**. Passionate about clean code, design systems, and emerging tech trends including **AI/ML**.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
 
-- **Programming in**
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<img height=40px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="Javascript"/> 
-</td>
-<td align="center" width="20%">
-<img height=40px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5"/>
-</td>
-<td align="center" width="20%">
-<img height=40px src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="CSS3"/>
-</td>
-<td align="center" width="20%">
-<img height=40px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
-</td>
-</tr>
-</tbody>
-</table>
+## 🛠️ Skills
 
+### Front-End
+- **Languages & Libraries**: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js
+- **Styling & UI**: SASS, Bootstrap, Material UI, Tailwind
+- **State Management**: Redux, Context API, Custom Hooks
+- **Testing**: React Testing Library, Jest
+- **Performance**: Lazy loading, Code splitting
+- **Accessibility & SEO**: Semantic HTML, Structured data
 
-- **Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" /> 
-</td>
-<td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" /> 
-</td>
-<td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" /> 
-</td>
-<td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" /> 
-</td>
-<td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" /> 
-</td>
-<td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" /> 
-</td>
-</tr>
-</tbody>
-</table>
+### Back-End
+- **Technologies**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **DevOps & Tooling**: Git, Bitbucket, JIRA
 
+### Methodologies
+- Agile, Scrum
 
-- **Git Stats**
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vulchivijay&theme=buefy&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulchivijay&theme=buefy&layout=compact" />
+---
 
+## 🏆 Certifications
 
-<br/>
+- **React - The Complete Guide (2025)**  
+  Covers Next.js, Redux, and advanced React patterns
 
-<!--
-https://github.com/anuraghazra/github-readme-stats#themes
-**vulchivijay/vulchivijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **GitHub Copilot for Developers (2025)**  
+  Leveraging AI to generate code, unit tests, and boost productivity
 
+---
 
-## I work on... :man_technologist:
+## 💼 Work Experience
 
-## On the job... :office:
+### HCL Technologies, Chennai — *Senior Technical Lead*  
+**2018 – Present**
+- Migrated enterprise applications from Silverlight to HTML5 and Knockout.js to React.js
+- Built reusable component libraries adopted across multiple teams
+- Boosted page load speed by 60% through performance tuning
 
-## I did... :man_student:
+### Freshworks Inc, Chennai — *Senior Software Engineer*  
+**2016 – 2018**
+- Developed dashboard for Freshchat widget app
+- Built custom UI libraries without third-party dependencies
+- Designed mobile-first layouts with minimal media queries
 
-## I love... :gift_heart:
-### Hi there 👋
+### KRDS, Chennai — *Senior UI Developer*  
+**2014 – 2016**
+- Developed micro-sites and Facebook campaign apps for global clients (AirFrance, DBS Bank, LG, WWF)
 
-Here are some ideas to get you started:
+### Mobifreaks, Nellore — *Frontend Developer*  
+**2013 – 2014**
+- Converted PSDs to responsive web pages using Bootstrap and jQuery
+- Delivered free web templates and customer support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aagmaey Technologies, Chennai — *Software Engineer*  
+**2011 – 2012**
+- Designed websites using Adobe Photoshop and Flash animations
+
+---
+
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)**  
+  Sri Venkateswara University, 2007 – 2010
+
+- **Bachelor of Computer Science**  
+  Sri Venkateswara University, 2004 – 2007
+
+---
+
+## 🌐 Languages
+
+- Telugu (Fluent)  
+- English (Intermediate)  
+- Tamil (Basic)
+
+---
+
+## 🚀 Interests
+
+- AI/ML integration in web development  
+- Full-stack architecture and performance optimization  
+- Community-driven learning and resource sharing  
+- Making technology accessible in Telugu
+
+---
+
+> 💡 *Let’s connect and build something impactful together!*
