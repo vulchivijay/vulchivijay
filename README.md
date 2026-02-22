@@ -1,6 +1,6 @@
 # 👨‍💻 Vulchi Vijaya Kumar
 
-**Senior Technical Lead | Full-Stack Developer | AI Enthusiast**  
+**Senior Technical Lead | Senior AI-Augmented Full-Stack Engineer | Remote | React | Node.js
 📍 Tirupati, Andhra Pradesh, India  
 📧 vulchi.vijay@gmail.com | 📱 +91 8099181075  
 🔗 [LinkedIn](https://www.linkedin.com/in/vulchivijayakumar/)
