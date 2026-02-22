@@ -9,7 +9,13 @@
 
 ## 🧠 About Me
 
-Experienced Full-Stack Developer with 12+ years of hands-on expertise in building responsive, accessible, and high-performance web applications. I specialize in modern JavaScript frameworks like **React.js**, **Next.js**, and **TypeScript**, and have strong backend experience with **Node.js**, **Express**, and **RESTful APIs**. Passionate about clean code, design systems, and emerging tech trends including **AI/ML**.
+Actively seeking remote-first opportunities where I can contribute to scalable system architecture, AI-integrated platforms, and high-performance web applications within distributed global teams.
+
+Senior Full-Stack Engineer with 13 years of experience delivering production-grade systems across frontend and backend ecosystems. Strong expertise in React.js, Next.js, TypeScript, Node.js, RESTful API architecture, and database design.
+
+Experienced in integrating Generative AI into real-world applications and implementing AI-augmented development workflows using GitHub Copilot and custom automation agents to enhance engineering leverage while maintaining architectural integrity and code quality.
+
+I value location-independent work and global exposure, leveraging diverse environments to broaden perspective while maintaining disciplined execution, structured communication, and consistent delivery standards.
 
 ---
 
